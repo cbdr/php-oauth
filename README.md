@@ -1,3 +1,8 @@
+
+:warning: Deprecated. Use https://github.com/careerbuilder/php-oauth instead.
+
+---
+
 php-oauth
 =========
 
